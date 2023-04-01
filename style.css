@@ -22,7 +22,7 @@ Text Domain: fortunatum
     --color-charcoal-dark: hsl(180 18% 10%);
 
     --color-sand-a60: hsla(22, 30%, 75%, 60%);
-    --color-chathams-a60: hsla(190, 20%, 36%, 60%);
+    --color-chathams-a30: hsla(190, 20%, 36%, 30%);
     --color-charcoal-a10: hsla(186, 10%, 20%, 10%);
     --color-charcoal-a90: hsla(186, 10%, 20%, 90%);
 
@@ -577,7 +577,7 @@ img {
 	text-align: center;
 	gap: .5rem;
 	border-radius: 1em;
-	background-color: var(--color-chathams-a60);
+	background-color: var(--color-chathams-a30);
 	padding: 2rem;
 }
 
