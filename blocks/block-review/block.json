@@ -1,0 +1,10 @@
+{
+    "name": "acf/review",
+    "title": "Review del juego",
+    "category": "formating",
+    "icon": "testimonial",
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "block-review.php"
+    }
+}

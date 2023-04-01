@@ -1,0 +1,11 @@
+{
+    "name": "acf/features",
+    "title": "Características del juego",
+    "style": [ "file:block-features.css" ],
+    "category": "formating",
+    "icon": "excerpt-view",
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "block-features.php"
+    }
+}
